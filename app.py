@@ -93,7 +93,8 @@ st.markdown(
             [AI実践講座](https://techno-semi.com/practice)の一環で作成したアプリです  
             開発で使用した資料をまとめたスライドやソースコードを公開しています  
             - [Google Slide](https://docs.google.com/presentation/d/1pnTyeNN3i1GLaQXUVIyQCovqAw-wRSNx/edit?usp=sharing&ouid=101875186374769306062&rtpof=true&sd=true)  
-            - [Source Code](https://github.com/Nekodigi/Lightning-Lab)  
+            - [Source Code(このWebサイト)](https://streamlit-gcp-aohlqyvu3a-an.a.run.app)  
+            - [Source Code(コンペ)](https://github.com/Nekodigi/Lightning-Lab)
             
             今回の開発にあたり、これまで積み重ねてきたWeb開発、アート制作、AI開発、言語理解の知識が大きく活かされました  
             数百以上のアプリのソースコード、開発秘話を公開しているので是非筆者のホームページも覗いてみてください
